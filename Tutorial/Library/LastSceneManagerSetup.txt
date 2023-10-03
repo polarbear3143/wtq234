@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/instance/scenes/New Scene.unity
+- path: Assets/Animator/Scenes/Animator.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
