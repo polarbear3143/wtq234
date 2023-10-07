@@ -343,9 +343,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Animator/scripts/AnimatorManeger.cs"
-"Assets/Unity inster/Quirky Series Ultimate/_Scripts/QuirkySeriesDemo.cs"
-"Assets/Unity inster/Quirky Series Ultimate/_Scripts/RotateOnScroll.cs"
+"Assets/Animation clip/Script/AnimationManager.cs"
+"Assets/Animation clip/Script/Parallax.cs"
+"Assets/Unity Interface/Quirky Series Ultimate/_Scripts/QuirkySeriesDemo.cs"
+"Assets/Unity Interface/Quirky Series Ultimate/_Scripts/RotateOnScroll.cs"
 -langversion:9.0
 
 /deterministic
