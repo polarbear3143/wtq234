@@ -345,6 +345,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Animation clip/Script/AnimationManager.cs"
 "Assets/Animation clip/Script/Parallax.cs"
+"Assets/NavMesh Agent/Script/Controller.cs"
+"Assets/Sound/Script/AudioManager.cs"
+"Assets/Sound/Script/Drone.cs"
 "Assets/Unity Interface/Quirky Series Ultimate/_Scripts/QuirkySeriesDemo.cs"
 "Assets/Unity Interface/Quirky Series Ultimate/_Scripts/RotateOnScroll.cs"
 -langversion:9.0
