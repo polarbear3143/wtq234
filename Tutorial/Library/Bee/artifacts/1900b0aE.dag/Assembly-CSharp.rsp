@@ -345,6 +345,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Animation clip/Script/AnimationManager.cs"
 "Assets/Animation clip/Script/Parallax.cs"
+"Assets/Light/Script/Movement.cs"
 "Assets/NavMesh Agent/Script/Controller.cs"
 "Assets/Sound/Script/AudioManager.cs"
 "Assets/Sound/Script/Drone.cs"

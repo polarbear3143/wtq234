@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/NavMesh Agent/Scene/NavMesh Agent Example.unity
+- path: Assets/Light/Scene/Light.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
